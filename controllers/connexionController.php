@@ -14,7 +14,8 @@ if (isset($_POST['formconnexion'])) {
             if ($requete) { 
             	
                     $_SESSION['id'] = $requete['id'];
-                    $_SESSION['username'] = $requete['username'];
+                    $_SESSION['nom'] = $requete['nom'];
+                    $_SESSION['prenom'] = $requete['prenom'];
                     $_SESSION['email'] = $requete['email'];
                     $_SESSION['pass'] = $requete['pass'];
                     header('Location: home');

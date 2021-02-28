@@ -1,13 +1,13 @@
 <div class="about-section" id="about" id="about">
 	<div class="container">
 		<div class="about-header">
-			<h3>about</h3>
+			<h3>présentation</h3>
 			<div class="about-imag">
 			<img src="images/pp.jpg" style="width: 100%;" alt=""/>
 			</div>
 			<div class="about-text">
-					<p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.</p> 
-					<p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. . </p>
+					<p>Je m'appelle Nicolas Vignon, je suis actuellement étudiant en 2ème année de BTS à l'école IRIS informatique. Je suis une formation dans le milieu du<strong> Développement informatique</strong></p> 
+					<br/><p>J'ai pu réaliser quelques projets durant mon bts que vous retrouverez sur la page <strong><a href="projets">projets</a></strong> </p>
 			</div>
 			<div class="clearfix"></div>
 			</div>
@@ -16,123 +16,94 @@
 					<div class="polls">
 					<div class="poll">
 						<div class="poll-desc">
-							<h4>Graphic Design</h4>
+							<h4>Html/CSS</h4>
 						</div>
 						<div class="percentage">
-							<p>15%</p>
+							<p>85%</p>
 					</div>
 					<div class="clearfix"></div>
 				</div>
 				<div class="skills">
-			              	<div style="width:15%"> </div>
+			              	<div style="width:85%"> </div>
 	                      </div>
 	                      </div>
 	                      <div class="polls">
 					<div class="poll">
 						<div class="poll-desc">
-							<h4>Ui/Ux</h4>
+							<h4>sql</h4>
 						</div>
 						<div class="percentage">
-							<p>35%</p>
+							<p>65%</p>
 					</div>
 					<div class="clearfix"></div>
 				</div>
 				<div class="skills">
-			              	<div style="width:35%"> </div>
+			              	<div style="width:65%"> </div>
 	                      </div>
 	                      </div>
 	                      <div class="polls">
 					<div class="poll">
 						<div class="poll-desc">
-							<h4>Logo Design</h4>
+							<h4>PHP</h4>
 						</div>
 						<div class="percentage">
-							<p>75%</p>
+							<p>55%</p>
 					</div>
 					<div class="clearfix"></div>
 				</div>
 				<div class="skills">
-			              	<div style="width:75%"> </div>
+			              	<div style="width:55%"> </div>
 	                      </div>
 	                      </div>
-	                      <div class="polls">
-					<div class="poll">
-						<div class="poll-desc">
-							<h4>Html/Css</h4>
-						</div>
-						<div class="percentage">
-							<p>75%</p>
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				<div class="skills">
-			              	<div style="width:75%"> </div>
-	                      </div>
-	                      </div>
+	                     
 
 	</div>
 	<div class="col-md-6 about-rightgrid">
 		<div class="polls">
 					<div class="poll">
 						<div class="poll-desc">
-							<h4>web design</h4>
+							<h4>C#</h4>
 						</div>
 						<div class="percentage">
-							<p>75%</p>
+							<p>10%</p>
 					</div>
 					<div class="clearfix"></div>
 				</div>
 				<div class="skills">
-			              	<div style="width:75%"> </div>
+			              	<div style="width:10%"> </div>
 	                      </div>
 	                      </div>
 	                      <div class="polls">
 					<div class="poll">
 						<div class="poll-desc">
-							<h4>branding</h4>
+							<h4>python</h4>
 						</div>
 						<div class="percentage">
-							<p>75%</p>
+							<p>50%</p>
 					</div>
 					<div class="clearfix"></div>
 				</div>
 				<div class="skills">
-			              	<div style="width:75%"> </div>
+			              	<div style="width:50%"> </div>
 	                      </div>
 	                      </div>
 	                      <div class="polls">
 					<div class="poll">
 						<div class="poll-desc">
-							<h4>Photography</h4>
+							<h4>Montage vidéo</h4>
 						</div>
 						<div class="percentage">
-							<p>75%</p>
+							<p>90%</p>
 					</div>
 					<div class="clearfix"></div>
 				</div>
 				<div class="skills">
-			              	<div style="width:75%"> </div>
+			              	<div style="width:90%"> </div>
 	                      </div>
 	                      </div>
-	                      <div class="polls">
-					<div class="poll">
-						<div class="poll-desc">
-							<h4>Jquery</h4>
-						</div>
-						<div class="percentage">
-							<p>75%</p>
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				<div class="skills">
-			              	<div style="width:75%"> </div>
-	                      </div>
-	                      </div>
+	                      
 		</div>
 		<div class="clearfix"></div>
 	</div>
-	<div class="arrow1">
-	<a href="#work" class="scroll"><img src="images/arrow1.png" alt=""/></a>
-					</div>
 	</div>
 	</div>

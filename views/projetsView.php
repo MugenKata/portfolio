@@ -1,6 +1,6 @@
 <div class="works-section" id="work" id="work">
 	   <div class="works-header">
-			<h3>works</h3>
+			<h3>Projets</h3>
 				<p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. </p>
 		</div>
 		<div class="portfolio-section-bottom-row" id="portfolio">
@@ -28,11 +28,10 @@
 						<div class="sap_tabs">
 							<div id="horizontalTab" style="display: block; width: 100%; margin: 0px;">
 								  <ul class="resp-tabs-list">
-									  <li class="resp-tab-item" aria-controls="tab_item-0" role="tab"><span>All</span></li>
-									  <li class="resp-tab-item" aria-controls="tab_item-1" role="tab"><span>Branding</span></li>
-									  <li class="resp-tab-item" aria-controls="tab_item-2" role="tab"><span>Print</span></li>
-									  <li class="resp-tab-item" aria-controls="tab_item-3" role="tab"><span>Web design</span></li>
-									  <li class="resp-tab-item" aria-controls="tab_item-4" role="tab"><span>Photography</span></li>
+									  <li class="resp-tab-item" aria-controls="tab_item-0" role="tab"><span>Tous les projets</span></li>
+									  <li class="resp-tab-item" aria-controls="tab_item-1" role="tab"><span>Programmation</span></li>
+									  <li class="resp-tab-item" aria-controls="tab_item-2" role="tab"><span>PPE</span></li>
+									  <li class="resp-tab-item" aria-controls="tab_item-3" role="tab"><span>Stage</span></li>
 									  <div class="clearfix"></div>
 								  </ul>	
 								<div id="portfoliolist">
@@ -40,128 +39,85 @@
 										<div class="tab-1 resp-tab-content" aria-labelledby="tab_item-0">
 											<div class="tab_img">
 													<div class="col-md-3 img-top grid_box">
-														<a href="images/pic-1.jpg" class="swipebox"  title="Image Title">
-															  <img src="images/pic-1.jpg" class="img-responsive" alt="">
+														<a href="images/filelec.png" class="swipebox"  title="Filelec">
+															  <img src="images/filelec.png" class="img-responsive" alt="">
 															  <span class="zoom-icon"></span> 
 														</a>
+														<center>
+														<a href="filelec">
+  															 <input type="button" class="w-100 btn btn-lg btn-primary" value="Filelec" />
+																</a></center>
 													</div>
 													<div class="col-md-3 img-top grid_box">
-														<a href="images/pic-2.jpg" class="swipebox"  title="Image Title">
-															  <img src="images/pic-2.jpg" class="img-responsive" alt="">
+														<a href="images/forum.png" class="swipebox"  title="Forum">
+															  <img src="images/forum.png" class="img-responsive" alt="">
 															  <span class="zoom-icon"></span> 
 														</a>
+														<center>
+														<a href="forum">
+  															 <input type="button" class="w-100 btn btn-lg btn-primary" value="Forum" />
+																</a></center>
 													</div>
 													<div class="col-md-3 img-top grid_box">
-														<a href="images/pic-3.jpg" class="swipebox"  title="Image Title">
-															  <img src="images/pic-3.jpg" class="img-responsive" alt="">
+														<a href="images/logo-oacom.png" class="swipebox"  title="Stage">
+															  <img src="images/logo-oacom.png" class="img-responsive" alt="">
 															  <span class="zoom-icon"></span> 
 														</a>
+														<center>
+														<a href="stage">
+  															 <input type="button" class="w-100 btn btn-lg btn-primary" value="Stage" />
+																</a></center>
 													</div>
-													<div class="col-md-3 img-top grid_box">
-														<a href="images/pic-4.jpg" class="swipebox"  title="Image Title">
-															  <img src="images/pic-4.jpg" class="img-responsive" alt="">
-															  <span class="zoom-icon"></span> 
-														</a>
-													</div>
-													<div class="col-md-3 img-top grid_box">
-														<a href="images/pic-5.jpg" class="swipebox"  title="Image Title">
-															  <img src="images/pic-5.jpg" class="img-responsive" alt="">
-															  <span class="zoom-icon"></span> 
-														</a>
-													</div>
-													<div class="col-md-3 img-top grid_box">
-														<a href="images/pic-6.jpg" class="swipebox"  title="Image Title">
-															  <img src="images/pic-6.jpg" class="img-responsive" alt="">
-															  <span class="zoom-icon"></span> 
-														</a>
-													</div>
-													<div class="col-md-3 img-top grid_box">
-														<a href="images/pic-7.jpg" class="swipebox"  title="Image Title">
-															  <img src="images/pic-7.jpg" class="img-responsive" alt="">
-															  <span class="zoom-icon"></span> 
-														</a>
-													</div>
-													<div class="col-md-3 img-top grid_box">
-														<a href="images/pic-8.jpg" class="swipebox"  title="Image Title">
-															  <img src="images/pic-8.jpg" class="img-responsive" alt="">
-															  <span class="zoom-icon"></span> 
-														</a>
-													</div>
+													
+													
 													<div class="clearfix"></div>	
 											</div>
 																				 
 										</div>
 										<div class="tab-1 resp-tab-content" aria-labelledby="tab_item-1">
 											<div class="tab_img">
-												<div class="col-md-3 img-top grid_box">
-														<a href="images/pic-5.jpg" class="swipebox"  title="Image Title">
-															  <img src="images/pic-5.jpg" class="img-responsive" alt="">
+											<div class="col-md-3 img-top grid_box">
+														<a href="images/forum.png" class="swipebox"  title="Image Title">
+															  <img src="images/forum.png" class="img-responsive" alt="">
 															  <span class="zoom-icon"></span> 
 														</a>
+														<center>
+														<a href="filelec">
+  															 <input type="button" class="w-100 btn btn-lg btn-primary" value="Forum" />
+																</a></center>
 													</div>
-													<div class="col-md-3 img-top grid_box">
-														<a href="images/pic-6.jpg" class="swipebox"  title="Image Title">
-															  <img src="images/pic-6.jpg" class="img-responsive" alt="">
-															  <span class="zoom-icon"></span> 
-														</a>
-													</div>
-													<div class="col-md-3 img-top grid_box">
-														<a href="images/pic-7.jpg" class="swipebox"  title="Image Title">
-															  <img src="images/pic-7.jpg" class="img-responsive" alt="">
-															  <span class="zoom-icon"></span> 
-														</a>
-													</div>
-													<div class="col-md-3 img-top grid_box">
-														<a href="images/pic-8.jpg" class="swipebox"  title="Image Title">
-															  <img src="images/pic-8.jpg" class="img-responsive" alt="">
-															  <span class="zoom-icon"></span> 
-														</a>
-													</div>
-													
 													<div class="clearfix"></div>	
 											</div>	 	        					 
 										</div>
 										<div class="tab-1 resp-tab-content" aria-labelledby="tab_item-2">
 											
 											<div class="tab_img">
-													<div class="col-md-3 img-top grid_box">
-														<a href="images/pic-2.jpg" class="swipebox"  title="Image Title">
-															  <img src="images/pic-2.jpg" class="img-responsive" alt="">
+											<div class="col-md-3 img-top grid_box">
+														<a href="images/filelec.png" class="swipebox"  title="Filelec">
+															  <img src="images/filelec.png" class="img-responsive" alt="">
 															  <span class="zoom-icon"></span> 
 														</a>
+														<center>
+														<a href="filelec">
+  															 <input type="button" class="w-100 btn btn-lg btn-primary" value="Filelec" />
+																</a></center>
 													</div>
-													<div class="col-md-3 img-top grid_box">
-														<a href="images/pic-3.jpg" class="swipebox"  title="Image Title">
-															  <img src="images/pic-3.jpg" class="img-responsive" alt="">
-															  <span class="zoom-icon"></span> 
-														</a>
-													</div>
-													<div class="col-md-3 img-top grid_box">
-														<a href="images/pic-4.jpg" class="swipebox"  title="Image Title">
-															  <img src="images/pic-4.jpg" class="img-responsive" alt="">
-															  <span class="zoom-icon"></span> 
-														</a>
-													</div>
-													
-														<div class="clearfix"></div>
+													<div class="clearfix"></div>
 											</div>		        					 
 										</div>
 										<div class="tab-1 resp-tab-content" aria-labelledby="tab_item-3">
 											<div class="tab_img">
-													<div class="col-md-3 img-top grid_box">
-														<a href="images/pic-1.jpg" class="swipebox"  title="Image Title">
-															  <img src="images/pic-1.jpg" class="img-responsive" alt="">
+											<div class="col-md-3 img-top grid_box">
+														<a href="images/logo-oacom.png" class="swipebox"  title="Image Title">
+															  <img src="images/logo-oacom.png" class="img-responsive" alt="">
 															  <span class="zoom-icon"></span> 
 														</a>
+														<center>
+														<a href="filelec">
+  															 <input type="button" class="w-100 btn btn-lg btn-primary" value="Forum" />
+																</a></center>
 													</div>
-													<div class="col-md-3 img-top grid_box">
-														<a href="images/pic-2.jpg" class="swipebox"  title="Image Title">
-															  <img src="images/pic-2.jpg" class="img-responsive" alt="">
-															  <span class="zoom-icon"></span> 
-														</a>
-													</div>
-													
-														<div class="clearfix"></div>
+													<div class="clearfix"></div>
 											</div>	
 										</div>
 										<div class="tab-1 resp-tab-content" aria-labelledby="tab_item-4">
@@ -179,11 +135,7 @@
 									</div>	
 								</div>
 							</div>
-						</div>				
- 
-				<div class="arrow">
-					<a href="#services" class="scroll"><img src="images/arrow.png" alt=""/></a>
-				</div>
+						</div>	
 			</div>
 		</div>
 	</div>

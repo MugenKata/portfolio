@@ -469,6 +469,7 @@ p {
   margin: 0 0 10px;
 }
 .lead {
+  text-align: center;
   margin-bottom: 20px;
   font-size: 16px;
   font-weight: 200;

@@ -11,7 +11,7 @@ Author URL: http://templatestock.co
 Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <link href="css/bootstrap.css" rel='stylesheet' type='text/css'/>
-<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />	    
+<link href="css/style1.css" rel="stylesheet" type="text/css" media="all" />	    
 	    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="js/jquery.min.js"></script>
 <script type="text/javascript" src="js/move-top.js"></script>
@@ -30,21 +30,20 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
       <div class="container"> 
          <div class="header-top">
       		 <div class="logo">
-				<a href="index.php"><img src="images/logo.png" alt=""/></a>
+				<a href="home"><img src="images/logo.png" alt=""/></a>
 			 </div>
 		   <div class="top-menu">
 		   	<span class="menu"> </span>
 			<ul>
 			 	<nav class="cl-effect-6">
-				<li><a class="active" href="home"><span data-hover="Home">accueil</span></a></li>
-				<li><a href="home" ><span data-hover="about">à propos</span></a></li>
-				<li><a href="projet" class="scroll"><span data-hover="work"><span>réalisations</span></a></li>
-				<li><a href="service" class="scroll"><span data-hover="services">services</span></a></li>
-				<li><a href="#contact" class="scroll"><span data-hover="contact">contact</span></a></li>
-				<li><a href="connexion"><span data-hover="contact">connexion</span></a></li>
+				<li><a href="home">accueil</a></li>
+				<li><a href="projets" ><span data-hover="about">projets</span></a></li>
+				<li><a href="curriculum" ><span data-hover="work"><span>mon cv</span></a></li>
+				<li><a href="support" ><span data-hover="services">lettre de motivation</span></a></li>
 				</nav>
 			 </ul>
 			 </div>
+               
 			 <!--script-nav-->
 		 <script>
 		 $("span.menu").click(function(){
@@ -61,26 +60,25 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				   	<div class="banner-wrap">
 				   	       	<div class="banner_center">
 				   		 		<h1>Vignon Nicolas</h1> 
-				   		 		<h2>étudiant en <span>BTS SIO option SLAM</span></h2>
-				   		 		<h2>à l'IRIS </h2>
+				   		 		
+				   		 		
 				   		 		</div>
 				   		 </div>
 					</article>
 				   <article style="position: relative; width: 100%; opacity: 1;"> 
 				   	   	<div class="banner-wrap">
 				   	      <div class="banner_center">
-				   		 		<h1>Content here,</h1> 
-				   		 		<h2>Lorem <span>graphic &  designer</span></h2>
-				   		 		<h2>Contrary</h2>
+				   		 		
+				   		 		<h2>étudiant en <span>BTS SIO option SLAM</span></h2>
+				   		 		
 				   		 		</div>
 				   		  </div>
 				   </article>
 				   <article style="position: absolute; width: 100%; opacity: 0;">
 				   	  	<div class="banner-wrap">
 				   	       <div class="banner_center">
-				   		 		<h1>Lorem Ipsum ,</h1> 
-				   		 		<h2>Contrary to <span>&  designer</span></h2>
-				   		 		<h2>reproduced below</h2>
+				   		 		
+							  <h2>à l'école IRIS informatique </h2>
 				   		 		</div>
 				   		 </div>
 					 </article>
@@ -94,7 +92,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
       </div>
 	 </div>     
 	</div>
-	
+	<?php echo $content; ?>
 	<div class="footer-section" id="contact" id="contact">
 			<div class="container"> 
 			
